@@ -1,0 +1,24 @@
+{
+  "name": "bootcam-project-1",
+  "version": "1.0.0",
+  "description": "bootcamp beginner study project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amado76/IGTI-Bootcamp-Beginner-Software-Developer.git"
+  },
+  "keywords": [
+    "begginer",
+    "study"
+  ],
+  "author": "Bruno Amado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amado76/IGTI-Bootcamp-Beginner-Software-Developer/issues"
+  },
+  "homepage": "https://github.com/Amado76/IGTI-Bootcamp-Beginner-Software-Developer#readme"
+}
