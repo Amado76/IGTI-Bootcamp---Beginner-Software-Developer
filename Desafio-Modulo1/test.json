@@ -1,0 +1,36 @@
+{
+    "funcionarios": [
+
+        {
+            "nome": "Giovanna Barros Santos",
+            "salario": 3000,
+            "setor": "Administrativo"
+        },
+        {
+            "nome": "Otávio Araujo Costa",
+            "salario": 3500,
+            "setor": "Comercial"
+        },
+        {
+            "nome": "Bruna Lima Azevedo",
+            "salario": 3000,
+            "setor": "Administrativo"
+        },
+        {
+            "nome": "Rebeca Ferreira Oliveira",
+            "salario": 2500,
+            "setor": "Produção"
+        },
+        {
+            "nome": "Breno Sousa Rocha",
+            "salario": 6000,
+            "setor": "Administrativo"
+        },
+        {
+            "nome": "Vitória Castro Almeida",
+            "salario": 5000,
+            "setor": "Administrativo"
+        }
+
+    ]
+}
